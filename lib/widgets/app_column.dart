@@ -41,7 +41,7 @@ class AppColumn extends StatelessWidget {
             const SizedBox(width: 15,),
             IconAndTextWidget(icon: Icons.location_on,
                 text: '1.7 km',
-                iconColor: AppColors.mainColor),
+                iconColor: AppColors.mainColor,),
             const SizedBox(width: 15,),
             IconAndTextWidget(icon: Icons.access_time_rounded,
                 text: '32 min',
